@@ -1,3 +1,0 @@
-﻿  CreateThreadWithCustomParamsFunction.cpp
-C:\Users\Chiptronic\source\repos\WinAPI\CreateThreadWithCustomParamsFunction\CreateThreadWithCustomParamsFunction\CreateThreadWithCustomParamsFunction.cpp(8,2): warning C4091: 'typedef ': ignorado à esquerda de 'blastruct' quando nenhuma variável é declarada
-  CreateThreadWithCustomParamsFunction.vcxproj -> C:\Users\Chiptronic\source\repos\WinAPI\CreateThreadWithCustomParamsFunction\Debug\CreateThreadWithCustomParamsFunction.exe

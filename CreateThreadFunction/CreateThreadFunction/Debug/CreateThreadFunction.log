@@ -1,3 +1,0 @@
-﻿  CreateThreadFunction.cpp
-C:\Users\Chiptronic\source\repos\WinAPI\CreateThreadFunction\CreateThreadFunction\CreateThreadFunction.cpp(74,8): warning C4806: '==': operação não segura: nenhum valor do tipo 'bool' promovido para tipo 'int' pode se igualar à constante fornecida
-  CreateThreadFunction.vcxproj -> C:\Users\Chiptronic\source\repos\WinAPI\CreateThreadFunction\Debug\CreateThreadFunction.exe
