@@ -1,0 +1,4 @@
+﻿  CreateProcessFunction.cpp
+C:\Users\Chiptronic\source\repos\WinAPI\CreateProcessFunction\CreateProcessFunction\CreateProcessFunction.cpp(7,9): warning C4101: 'hTrhead': variável local não referenciada
+C:\Users\Chiptronic\source\repos\WinAPI\CreateProcessFunction\CreateProcessFunction\CreateProcessFunction.cpp(6,9): warning C4101: 'hProc': variável local não referenciada
+  CreateProcessFunction.vcxproj -> C:\Users\Chiptronic\source\repos\WinAPI\CreateProcessFunction\x64\Debug\CreateProcessFunction.exe
